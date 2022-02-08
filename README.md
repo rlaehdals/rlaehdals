@@ -24,3 +24,11 @@
   <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=ApacheJmeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
+
+### ✨ Career
+
+|  Sortation  |       Date        |     Name     |  Content   |  Organization   |
+| :----: | :---------------: | :----------: | :--------: | :-------------: | 
+| 대학교 |     2017.03 ~     | 컴퓨터과학과 |   17학번   |   상명대학교    | 
+| 동아리 | 2021.03 ~  |  SK LOOKIE   |  서버 운영진 및 총무  | SK 행복나눔재단 |
+
