@@ -4,9 +4,8 @@
 </p>
 
 ### 👋 Hi there!
-🍫 I'm <b>Server Developer</b> using SpringBoot
+🍫 Hi, I'm a server developer using Spring Boot, but I'm now switching to DevOps.
 
-🍫 I want to change the world with my ability
 ### 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -15,14 +14,23 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=flat-square&logo=Amazon EKS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon Lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat-square&logo=Amazon SQS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Shell Script-FFD500?style=flat-square&logo=Shell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 </p>
 
 ### 💪 Tools
 <p>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=ApacheJmeter&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 
 ### ✨ Career
@@ -31,4 +39,5 @@
 | :----: | :---------------: | :----------: | :--------: | :-------------: | 
 | 대학교 |     2017.03 ~     | 컴퓨터과학과 |   17학번   |   상명대학교    | 
 | 동아리 | 2021.03 ~ 2022.06 |  SK LOOKIE   |  서버 운영진 및 총무  | SK 행복나눔재단 |
+| 직장 | 2022.07 ~ | RS Tech Team | 서버 개발자 | 아이포트폴리오 |
 
