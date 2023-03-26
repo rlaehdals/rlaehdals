@@ -33,6 +33,9 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
 </p>
 
+### 💪 Certificate
+<img src="https://user-images.githubusercontent.com/76467201/227784917-d458030b-bfda-47c4-80b4-5c4eced8ee65.png"/>
+
 ### ✨ Career
 
 |  Sortation  |       Date        |     Name     |  Content   |  Organization   |
