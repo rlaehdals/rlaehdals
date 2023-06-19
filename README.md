@@ -34,8 +34,7 @@
 </p>
 
 ### 💪 Certificate
-<img src="https://user-images.githubusercontent.com/76467201/227784917-d458030b-bfda-47c4-80b4-5c4eced8ee65.png"/>
-
+<img src="https://user-images.githubusercontent.com/76467201/227784917-d458030b-bfda-47c4-80b4-5c4eced8ee65.png"/> <img src="https://github.com/rlaehdals/Algorithm/assets/76467201/b632babb-e4e5-40e5-a320-8b7a0fe283fc" width=10%/>
 ### ✨ Career
 
 |  Sortation  |       Date        |     Name     |  Content   |  Organization   |
