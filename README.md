@@ -34,7 +34,7 @@
 </p>
 
 ### 💪 Certificate
-<img src="https://github.com/rlaehdals/rlaehdals/assets/76467201/7f797bd5-5890-4af6-8fc9-cca5f65cd802" width=15%/> <img src="https://user-images.githubusercontent.com/76467201/227784917-d458030b-bfda-47c4-80b4-5c4eced8ee65.png"/> <img src="https://github.com/rlaehdals/rlaehdals/assets/76467201/d73fa627-af21-4328-870d-815cac6438fe" width=10%/>
+<img src="https://github.com/rlaehdals/rlaehdals/assets/76467201/ebc3826b-279d-4b58-90d4-298cc99c2608" width=15%/> <img src="https://github.com/rlaehdals/rlaehdals/assets/76467201/7f797bd5-5890-4af6-8fc9-cca5f65cd802" width=15%/> <img src="https://user-images.githubusercontent.com/76467201/227784917-d458030b-bfda-47c4-80b4-5c4eced8ee65.png" width=15%/> <img src="https://github.com/rlaehdals/rlaehdals/assets/76467201/d73fa627-af21-4328-870d-815cac6438fe" width=15%/> 
 ### ✨ Career
 
 |  Sortation  |       Date        |     Name     |  Content   |  Organization   |
