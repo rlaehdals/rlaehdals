@@ -9,20 +9,12 @@
 ### 💪 Skills
 <p>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat-square&logo=Amazon S3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EKS-FF9900?style=flat-square&logo=Amazon EKS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS CloudWatch-FF4F8B?style=flat-square&logo=Amazon CloudWatch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat-square&logo=Amazon Lambda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS SQS-FF4F8B?style=flat-square&logo=Amazon SQS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Shell Script-FFD500?style=flat-square&logo=Shell&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
 </p>
 
 ### 💪 Tools
