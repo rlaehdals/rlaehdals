@@ -4,7 +4,7 @@
 </p>
 
 ### 👋 Hi there!
-🍫 Hi, I'm a server developer using Spring Boot, but I'm now switching to DevOps.
+🍫  Hello, I'm a developer transitioning from backend development to DevOps. I have experience working with Spring Boot for server-side applications. Currently, I am focusing on enhancing my skills in CI/CD, Terraform, cost optimization, and monitoring. I am committed to building efficient and reliable systems and look forward to collaborative opportunities that drive innovation and growth.
 
 ### 💪 Skills
 <p>
@@ -34,4 +34,5 @@
 | 대학교 |     2017.03 ~ 2023.02    | 컴퓨터과학과 |   17학번   |   상명대학교    | 
 | 동아리 | 2021.03 ~ 2022.06 |  SK LOOKIE   |  서버 운영진 및 총무  | SK 행복나눔재단 |
 | 직장 | 2022.07 ~ 2024.04 | RS Tech Team | 서버 개발자 | 아이포트폴리오 |
+| 직장 | 2024.05 ~         | 플랫폼 사업실    | 데브옵스   | 수성엔지니어링 |
 
