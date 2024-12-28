@@ -4,7 +4,7 @@
 </p>
 
 ### 👋 Hi there!
-🍫  Hello, I'm a developer transitioning from backend development to DevOps. I have experience working with Spring Boot for server-side applications. Currently, I am focusing on enhancing my skills in CI/CD, Terraform, cost optimization, and monitoring. I am committed to building efficient and reliable systems and look forward to collaborative opportunities that drive innovation and growth.
+🍫  Hello, I’m a developer with experience in both backend development and DevOps. I have experience working with Spring Boot for server-side applications. Currently, I am working on CI/CD, Terraform, cost optimization, and monitoring. I am committed to building efficient and reliable systems and look forward to collaborative opportunities that drive innovation and growth.
 
 ### 💪 Skills
 <p>
